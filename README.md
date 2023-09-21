@@ -1,5 +1,7 @@
 # goes-notify
 
+This is the same app as [goes-notify](https://github.com/Drewster727/goes-notify), but has been updated to work with Python 3.
+
 This app will simply parse json output from the interview scheduler for many of CBP's Trusted Traveler Programs, including Global Entry, NEXUS, SENTRI, US/Mexico FAST, and US/Canada FAST. You don't need to provide a login, it will simply check the available dates against your current interview date, then notify you if a better date can be locked in.
 
 Based on the ge-cancellation-checker that originally utilized phantomjs to login as the user:
